@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/synthetichealth/synthea/wiki/Basic-Setup-and-Running
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/61399845/ce701458-15f9-409c-8952-6dedc9177e4a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231213T195535Z&X-Amz-Expires=300&X-Amz-Signature=b53147e83c4539d2e96ac181776ed67aa2dd50165b03b0bc647943a22b27b9b3&X-Amz-SignedHeaders=host&actor_id=149223197&key_id=0&repo_id=61399845&response-content-disposition=attachment%3B%20filename%3Dsynthea-with-dependencies.jar&response-content-type=application%2Foctet-stream

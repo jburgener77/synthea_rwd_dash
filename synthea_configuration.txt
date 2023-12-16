@@ -1,0 +1,3 @@
+# Configuation settings for Synthea, additional default settings can be found here: https://github.com/synthetichealth/synthea/blob/master/src/main/resources/synthea.properties
+exporter.years_of_histry = 20
+generate.default_population = 10000
