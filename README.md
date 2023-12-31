@@ -24,6 +24,11 @@ Relevant information from simulated electronic health records were summarized ba
     |-simulated_fhir_record_2.json
     |- ...
     |- ...
+  |-csv
+    |-claims.csv
+    |-conditions.csv
+    |- ...
+    |- ...
 -csv
   |-claims_data.csv
   |-conditions_data.csv
@@ -31,6 +36,10 @@ Relevant information from simulated electronic health records were summarized ba
   |-observations_data.csv
   |-patient_data.csv
   |-procedures_data.csv
+-data_cleaned
+  |-claims_cleaned.csv
+  |- ...
+  |- ...
 -README.md
 -synthea_setup.sh
 -synthea_configuration.txt

@@ -1,2 +1,6 @@
 /bin/synthea-with-dependencies.jar
 /output/fhir/*
+/output/csv/*
+/output/metadata/*
+/csv/*
+/data_cleaned/*
